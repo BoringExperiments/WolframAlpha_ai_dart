@@ -1,0 +1,22 @@
+name: wolframalpha_ai_dart
+description: Dart client for interacting with WolframAlpha API, a engine for providing answers and knowledge.
+version: 0.0.1
+repository: https://github.com/BoringExperiments/WolframAlpha_ai_dart
+
+environment:
+  sdk: ^3.3.0
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+dependencies:
+  dio: ^5.4.1
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
